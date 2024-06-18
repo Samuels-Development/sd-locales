@@ -1,0 +1,75 @@
+{
+    "error": {
+        "cannot_use_kit_here"                : "Je kan de revivekit hier niet gebruiken.",
+        "already_hacked"                     : "Dit beveiligingssysteem is al gehackt.",
+        "still_active"                       : "Het beveiligingssysteem is nog actief.",
+        "fully_lockdown"                     : "Het beveiligingssysteem is volledig vergrendeld...",
+        "automatic_pressure_active"          : "De automatische drukregelaars zijn actief.",
+        "automatic_pressure_active2"         : "De automatische drukregelaars zijn nog actief.",
+        "pressure_too_low"                   : "De druk is te laag.",
+        "incorrect_pass"                     : "Dit wachtwoord is niet juist.",
+        "how_did_you_get"                    : "Oeps, hoe ben je hier terecht gekomen?!",
+        "not_enough_cops"                    : "Er is niet voldoende politie aanwezig...",
+		"lockdown"                    		 : "Op dit moment is het overvallen van de oil rig niet mogelijk...",
+        "already_have_barrel"                : "Je hebt al een vat.",
+        "trying_to_exploit"                  : "Gaan we vals spelen?!",
+        "pressure_too_high"                  : "De druk is te hoog geworden! Ren voor je leven!!",
+        "cannot_hack_right_now"              : "Je kan dit nu niet hacken.",
+        "pressure_not_right_yet"             : "De druk is nog niet juist afgesteld.",
+        "no_pink_usb_dongle"                 : "Je hebt geen USB-stick.",
+        "no_laptop"                          : "Je hebt geen hack laptop.",
+        "cant_do_right_now"                  : "Je kan dit nu niet doen.",
+        "wrong_lever_sequence"               : "Je hebt de hendels in de verkeerde volgorde overgehaald..."
+    },
+    "success": {
+        "out_to_sea"                         : "Je nadert het boorplatform...",
+        "pressure_at"                        : "De druk moet niet te hoog, maar ook niet te laag.",
+        "pressure_at_2"                      : "Als de druk eenmaal juist is dien je op een paar plekken het beveiligingssysteem te hacken.",
+        "automatic_pressure_deactive"        : "Automatische drukregelaars zijn uitgeschakeld.",
+        "took_barrel"                        : "Je hebt een vat met olie gepakt.",
+        "sold_barrel"                        : "Je hebt een vat met olie verkocht.",
+        "pulled_lever"                       : "Je hebt de hendel over gehaald.",
+        "current_pressure"                   : "De huidige druk is:",
+        "security_system_override"           : "Overschrijven van beveiligingssysteem gestart...",
+        "find_levers_to_deactivate_pressure" : "Vind de hendels om de automatische drukregelaar uit te schakelen."
+    },
+    "letters": {
+        "hidden_letter"                      : "De verborgen letter is",
+        "first_hidden_letter"                : "De eerste verborgen letter is",
+        "second_hidden_letter"               : "De tweede verborgen letter is",
+        "third_hidden_letter"                : "De derde verborgen letter is",
+        "fourth_hidden_letter"               : "De vierde verborgen letter is"
+    },
+    "menu": {
+        "input_password"                     : "Voer het wachtwoord in (4 letters, gevoelig):",
+        "submit_Text"                        : "Voer tekst in",
+        "uppercase_only"                     : "Alleen hoofdletters",
+        "sell_barrel"                        : "Verkoop vat aan benzinestation",
+        "going_price"                        : "Verkoopprijs bij dit tankstation:"
+    },
+    "prints": {
+        "cooldown_started"                   : "OILRIG: Cooldown gestart",
+        "cooldown_finished"                  : "OILRIG: Cooldown afgerond"
+    },
+    "target": {
+        "grab_barrel"                        : "Pak vat",
+        "sell_barrel"                        : "Verkoop olievat",
+        "pull_lever_1"                       : "Haal hendel #1 over",
+        "pull_lever_2"                       : "Haal hendel #2 over",
+        "pull_lever_3"                       : "Haal hendel #3 over",
+        "insert_dongle"                      : "Voer USB-stick in",
+        "increase_pressure"                  : "Verhoog druk",
+        "lower_pressure"                     : "Verlaag druk",
+        "check_pressure"                     : "Controleer de druk",
+        "enter_password"                     : "Voer wachtwoord in",
+        "loot_body"                          : "Doorzoeken",
+        "hack_password"                      : "Hack wachtwoord",
+        "hack"                               : "Apparaat hacken"
+    },
+    "progress": {
+        "reviving"                           : "Omhoog helpen...",
+        "selling"                            : "Aan het verkopen...",
+        "turning_valve"                      : "Aan de klep draaien...",
+        "pickup_barrel"                      : "Vat optillen..."
+    }
+}
