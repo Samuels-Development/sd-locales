@@ -1,0 +1,56 @@
+{
+  "error": {
+    "trip_lasers": "Je bent gedetecteerd door de lasers, alle terminals zijn geblokkeerd!",
+    "required_equipment_missing": "Je hebt niet de benodigde spullen.",
+    "timer_input_closed": "Je hebt het tijd invoeren geannuleerd.",
+    "failure": "Je hebt gefaald.",
+    "door_already_opened": "Deze deur is al geopend.",
+    "terminal_disabled": "De terminals zijn geblokkeerd.",
+    "terminal_already_hacked": "Deze terminal is al gehackt.",
+    "password_input_closed": "Je hebt het wachtwoord invoeren geannuleerd.",
+    "security_locked_down": "Het beveiligingssysteem is afgeloten.",
+    "security_active": "Het beveilingssysteem is actief.",
+    "invalid_code": "Ongeldige code. Let op, je hebt maar drie pogingen!",
+    "codes_missing": "Je hebt nog niet alle codes.",
+    "not_enough_police": "Er is niet genoeg politie aanwezig.",
+    "drill_overheated": "Je drilboor is oververhit en kapot gegaan.",
+    "drill_overheated2": "Je drilboor is oververhit of je bent gestopt.",
+    "nothing_left": "Deze kluisjes zijn al opengeboord.",
+    "get_closer": "Er is niks meer om te boren.",
+    "cant_interact": "Je kan hier niks mee.",
+    "lasers_tripped": "Je bent gedetecteerd door de lasers, alle terminals zijn geblokkeerd!"
+  },
+  "success": {
+    "explosive_planted": "Explosief is geplaatst, zoek dekking!",
+    "security_gate_unlocked": "Hek ontgrendeld.",
+    "security_deactivated": "Beveiligingssysteem begane grond gedeactiveerd.",
+    "computer": "Computer",
+    "code": "Code:",
+    "computer_hacked": "gehacked."
+  },
+  "menu": {
+    "enter_12_digit_code": "Twaalf-cijferige code invoeren:",
+    "submit_text": "Bevestigen",
+    "XXX_XXX": "Code",
+    "enter_timer": "Tijd invoeren (seconden):",
+    "bomb_timer": "Explosief timer"
+  },
+  "prints": {
+    "cooldown_started": "PACIFIC BANK: Cooldown gestart",
+    "cooldown_finished": "PACIFIC BANK: Cooldown klaar"
+  },
+  "target": {
+    "loot": "Buit",
+    "plant_bomb": "Bom plaatsen",
+    "enter_password": "Wachtwoord invoeren",
+    "use_thermite": "Thermiet plaatsen",
+    "hack_computer": "Computer hacken",
+    "hack_terminal": "Terminal hacken",
+    "drill_depo": "Kluisjes openboren",
+    "grab_loot": "Buit pakken"
+  },
+  "progress": {
+    "code_search": "Drie-cijferige code achterhalen...",
+    "start_hack": "Hack starten..."
+  }
+}
